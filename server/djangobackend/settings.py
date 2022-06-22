@@ -27,7 +27,8 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["localhost"]
+ALLOWED_HOSTS = ["localhost",
+                 "sundeepk.apic.eu-gb.mybluemix.net"]
 
 
 # Application definition
